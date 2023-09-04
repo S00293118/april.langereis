@@ -3036,6 +3036,10 @@ button.small,
 	font-size: 0.9em;
 }
 
+.copyright-text {
+	text-align: center;
+}
+
 /* Wide */
 
 @media screen and (max-width: 1680px) {
